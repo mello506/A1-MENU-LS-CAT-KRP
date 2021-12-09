@@ -25,7 +25,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ÉPICOS[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.1-FLM-NEWADD/main/1C-SEL-EPC-KRP</externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/ZK4qMm0/EPICOS-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/kM1PM9N/EPICOS-FAN.png</fanart>
 <info>PASSAGENS HISTÓRICAS COMO NUNCA VISTAS</info>
@@ -49,7 +49,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]COMÉDIA[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.1-FLM-NEWADD/main/1E-SEL-CMD-KRP</externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/Svj4QBZ/COMEDIA-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/Jy9VPvf/COMED-FAN.png</fanart>
 <info>DAR BOAS RISADAS É AQUI MESMO</info>
@@ -61,7 +61,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]WESTERN[/B][/COLOR]</name>
-<externallink><LINKPARAAPAGINAALVO>></externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/2jHS41N/WESTERN-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/jznjQjb/WESTERN-FAN.png</fanart>
 <info>TIROTEIOS E PERSEGUIÇÕES NO VELHO OESTE</info>
@@ -85,7 +85,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]ANIMAÇÃO[/B][/COLOR]</name>
-<externallink><LINKPARAAPAGINAALVO>></externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/rsjsXXM/ANIM-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/f10dJBQ/ANIM-FAN.png</fanart>
 <info>DIVERSÃO ANIMADA E GARANTIDA</info>
@@ -109,7 +109,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]CRIME E DRAMA[/B][/COLOR]</name>
-<externallink><LINKPARAAPAGINAALVO>></externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/bXL71LV/CRIM-DRM-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/B49mGGP/CRIM-DRM-FAN.png</fanart>
 <info>OS MELHORES CLÁSSICOS DOS DOIS GÊNEROS ESTÃO AQUI </info>
@@ -121,7 +121,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FICÇÃO E FANTASIA[/B][/COLOR]</name>
-<externallink><LINKPARAAPAGINAALVO>></externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/kJ92L2Y/FIC-FAN-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/yXnXnLK/FIC-FAN-FAN.png</fanart>
 <info>EXPLORE OUTROS MUNDOS E DIMENSÕES </info>
@@ -133,7 +133,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]SUSPENSE E TERROR[/B][/COLOR]</name>
-<externallink><LINKPARAAPAGINAALVO>></externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/2PnvTZp/SUP-TER-ALL.png</thumbnail>
 <fanart>https://i.ibb.co/gVFBqPT/SUP-TER-FAN.png</fanart>
 <info>PREPARE SEU CORAÇÃO PARA O MEDO E O MISTÉRIO</info>
@@ -145,7 +145,7 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 <channels>
 <channel>
 <name>[COLOR white][B]FILMES COM LINK DIRETO[/B][/COLOR]</name>
-<externallink>https://raw.githubusercontent.com/mello506/1.0-MENU-NEWADD/main/K1-FLM-LINKDIRETO</externallink>
+<externallink><LINKPARAPAGINAALVO></externallink>
 <thumbnail>https://i.ibb.co/8ghN7pG/LINK-DIRETO-FILM.png</thumbnail>
 <fanart>https://i.ibb.co/TRz60zj/FANART-LS.png</fanart>
 <info>MUITAS LISTAS DE FILMES EM DIVERSOS SERVIDORES PARA EXPLORAR E DESFRUTAR</info>
